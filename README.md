@@ -1,4 +1,4 @@
 yeti-client
 ===========
 
-Java network client
+Java network client. 
